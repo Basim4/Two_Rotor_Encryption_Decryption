@@ -1,6 +1,6 @@
 # Two_Rotor_Encryption_Decryption
 C program written for the terminal. This is a Two Rotor Enigma Machine used to encrypt and decrypt text files. A configuration file must be provided
-after the -i flag in the below usage statements. A configuration file has two lists of integers ranging from [0, 26]. Each number in this range must
+after the -i flag in the below usage statements. A configuration file has two lists of integers ranging from [0, 27]. Each number in this range must
 be listed once per list and on thier own line. The two lists are separated by a blank line. See sampleConfig.rtr as an example. 
 
 USAGE (after calling "make")
